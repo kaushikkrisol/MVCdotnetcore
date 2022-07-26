@@ -1,0 +1,12 @@
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MVCdontcore
+--content-root=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\Home\About.cshtml
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\Home\Contact.cshtml
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\Home\Index.cshtml
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\Shared\Error.cshtml
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\Shared\_Layout.cshtml
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\_ViewImports.cshtml
+--file=H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\Views\_ViewStart.cshtml

@@ -1,0 +1,11 @@
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\bin\Release\netcoreapp2.0\MVCdontcore.deps.json
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\bin\Release\netcoreapp2.0\MVCdontcore.runtimeconfig.json
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\bin\Release\netcoreapp2.0\MVCdontcore.runtimeconfig.dev.json
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\bin\Release\netcoreapp2.0\MVCdontcore.dll
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\bin\Release\netcoreapp2.0\MVCdontcore.pdb
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\obj\Release\netcoreapp2.0\MVCdontcore.csprojResolveAssemblyReference.cache
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\obj\Release\netcoreapp2.0\MVCdontcore.csproj.CoreCompileInputs.cache
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\obj\Release\netcoreapp2.0\MVCdontcore.AssemblyInfoInputs.cache
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\obj\Release\netcoreapp2.0\MVCdontcore.AssemblyInfo.cs
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\obj\Release\netcoreapp2.0\MVCdontcore.dll
+H:\KaushikTeamNew\powershelldev\MVCondotnetcore\MVCdontcore\obj\Release\netcoreapp2.0\MVCdontcore.pdb
